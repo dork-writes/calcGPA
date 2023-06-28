@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/calcGPA/static/css/main.2681c480.css",
-    "main.js": "/calcGPA/static/js/main.1737ae43.js",
+    "main.js": "/calcGPA/static/js/main.f10d7fe6.js",
     "static/js/787.f34038dc.chunk.js": "/calcGPA/static/js/787.f34038dc.chunk.js",
     "service-worker.js": "/calcGPA/service-worker.js",
     "index.html": "/calcGPA/index.html",
     "main.2681c480.css.map": "/calcGPA/static/css/main.2681c480.css.map",
-    "main.1737ae43.js.map": "/calcGPA/static/js/main.1737ae43.js.map",
+    "main.f10d7fe6.js.map": "/calcGPA/static/js/main.f10d7fe6.js.map",
     "787.f34038dc.chunk.js.map": "/calcGPA/static/js/787.f34038dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2681c480.css",
-    "static/js/main.1737ae43.js"
+    "static/js/main.f10d7fe6.js"
   ]
 }
