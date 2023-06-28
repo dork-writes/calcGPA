@@ -39,6 +39,7 @@ const GPAForm = () => {
 
   const removeOnIndex = (arr, f) =>
   {
+    arr.length === 1 ? arr.pop() : 
     f === 0 ? arr.shift() :
     f === arr.length - 1 ? arr.pop() :
     arr.splice(f, f);
